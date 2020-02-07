@@ -4,4 +4,4 @@
 ## 2. You Get What You Ask For
 ## 3. Garbage In, Garbage Out
 ## 4. Use Your Tools
-## 5. NEVER Assume
+## 5. No YOLO
